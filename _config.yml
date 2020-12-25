@@ -3,7 +3,7 @@
 title: Humming-an
 locale: en_US
 description: Compilation of my personal projects and thoughts.
-logo: site-logo.png
+logo: logo.png
 url: https://humming-an.github.io
 
 # Jekyll configuration
@@ -38,10 +38,10 @@ comments: true
 owner:
   name: Amey Naik
   avatar: michael-rose-photo.jpg #FIXME
-  email: michael@mademistakes.com #FIXME
+  email: mailameynaik@gmail.com 
   disqus-shortname: sosimpletheme #FIXME
-  twitter: mmistakes
-  facebook: michaelrose
+  twitter: mmistakes #FIXME
+  facebook: michaelrose #FIXME
   github: humming-an
   stackexchange:
   linkedin:
