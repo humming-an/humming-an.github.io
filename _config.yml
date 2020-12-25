@@ -1,10 +1,10 @@
 # Site wide configuration
 
-title: So Simple Theme
+title: Humming-an
 locale: en_US
-description: A simple and clean responsive Jekyll theme for words and photos.
+description: Compilation of my personal projects and thoughts.
 logo: site-logo.png
-url: https://mmistakes.github.io/so-simple-theme
+url: https://humming-an.github.io
 
 # Jekyll configuration
 
@@ -36,18 +36,15 @@ comments: true
 
 # Site owner
 owner:
-  name: Michael Rose
-  avatar: michael-rose-photo.jpg
-  email: michael@mademistakes.com
-  disqus-shortname: sosimpletheme
+  name: Amey Naik
+  avatar: michael-rose-photo.jpg #FIXME
+  email: michael@mademistakes.com #FIXME
+  disqus-shortname: sosimpletheme #FIXME
   twitter: mmistakes
   facebook: michaelrose
-  github: mmistakes
+  github: humming-an
   stackexchange:
   linkedin:
-  instagram: mmistakes
-  flickr:
-  tumblr: mademistakes
   pinterest:
   weibo:
   google:
